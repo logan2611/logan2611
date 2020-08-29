@@ -13,5 +13,8 @@ Here are some quick facts about me:
 - 📱 [Co-developed and released the first publically available temproot exploit for a Verizon BL locked Pixel 2](https://forum.xda-developers.com/pixel-2-xl/how-to/temporary-magisk-root-vzw-pixel-2-xl-xl-t3981423)
 - 📖 Currently studying to become a Nuclear Engineer
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=logan2611&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=logan2611&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan2611&show_icons=true&theme=dark&layout=compact" />
+</p>
